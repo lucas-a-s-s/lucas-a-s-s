@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Lucas Andrade
 
-<!--
-**lucas-a-s-s/lucas-a-s-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Sistemas | Desenvolvedor Back-end PHP  
+📍 São Paulo – SP  
 
-Here are some ideas to get you started:
+Sou desenvolvedor com 5 anos de experiência na criação de sistemas internos e automação de processos empresariais.  
+Atuei como referência técnica em equipe de desenvolvimento, conduzindo projetos integrados a ERP, com foco em eficiência operacional e impacto direto no faturamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- PHP
+- MySQL
+- Oracle
+- JavaScript
+- HTML / CSS
+- Bootstrap
+- APIs REST
+- Integração de Sistemas
+- Jira / Kanban
+
+## 📌 Experiência em destaque
+
+- Desenvolvimento de sistema de Fluxo de Pedidos à Vista (impacto direto no faturamento)
+- Automação de processos com redução de equipe operacional
+- Dashboards executivos para diretoria
+- Integração com ERP SisTextil
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/lucas-a-s-s
+- Email: lucas.-2010@hotmail.com
+- telefone: 11 958204543
