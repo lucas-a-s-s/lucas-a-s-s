@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Andrade
 
-💻 Analista de Sistemas | Desenvolvedor Back-end PHP  
+💻 Analista de Sistemas | Full Stack PHP  
 📍 São Paulo – SP  
 
 Sou desenvolvedor com 5 anos de experiência na criação de sistemas internos e automação de processos empresariais.  
